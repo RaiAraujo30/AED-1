@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Raí/Documents/Programacao/C/CodigoemC/AED1/Algoritmos de ordenação",
-      "program": "c:/Users/Raí/Documents/Programacao/C/CodigoemC/AED1/Algoritmos de ordenação/build/Debug/outDebug",
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
